@@ -1,3 +1,5 @@
 # latihan-branch
 
-Github sangat asiq
+Belajar di Dicoding sangat asiq
+
+
