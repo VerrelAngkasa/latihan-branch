@@ -1,3 +1,3 @@
 # latihan-branch
 
-halo, aku adalah development-branch
+Belajar di Dicoding sangat asiq
